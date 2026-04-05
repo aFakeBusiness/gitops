@@ -5,4 +5,4 @@ resources:
   - ../../_envcommon
 images:
   - name: 020124618381.dkr.ecr.us-west-2.amazonaws.com/nginx
-    newTag: v1.44.1
+    newTag: v1.26.1
